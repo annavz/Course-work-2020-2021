@@ -6,3 +6,5 @@
   * http://vectors.nlpl.eu/repository/20/185.zip
   * https://rusvectores.org/static/models/rusvectores4/araneum/araneum_upos_skipgram_300_2_2018.vec.gz
 * распаковать архивы с моделями в текущую папку
+
+Чтобы текст начал генерироваться, достаточно запустить все ячейки по порядку
